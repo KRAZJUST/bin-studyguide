@@ -1,17 +1,18 @@
-# Quartz v4
+# BIN Study Guide
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A study guide for the BIN course, built with [Quartz](https://quartz.jzhao.xyz/).
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## 🌐 Live Site
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+👉 **[krazjust.github.io/bin-studyguide](https://krazjust.github.io/bin-studyguide/)**
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## 📚 Contents
 
-## Sponsors
+- Lecture notes and study guides for BIN
+- Extended answers with diagrams
+- Topics: EA, CGP, EHW, L-systems, CA, thermodynamic limits, and more
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## 🛠️ Built With
+
+- [Quartz v4](https://quartz.jzhao.xyz/) — static site generator for Obsidian notes
+- Hosted on GitHub Pages
